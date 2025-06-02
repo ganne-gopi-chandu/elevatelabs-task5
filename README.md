@@ -64,7 +64,7 @@ This task focuses on learning and applying **tree-based models** — specificall
 
 ---
 
-## 📈 Recommended Visualizations
+## 📈 Visualizations
 
 | Plot | Purpose |
 |------|---------|
